@@ -1,0 +1,7 @@
+{
+    "C_Cpp.intelliSenseEngine": "default",
+    "idf.espIdfPathWin": "C:\\Users\\HP\\esp\\v5.3\\esp-idf",
+    "idf.toolsPathWin": "c:\\HUST\\2024.2\\Nhap_esp",
+    "idf.pythonInstallPath": "c:\\HUST\\2024.2\\Nhap_esp\\tools\\idf-python\\3.11.2\\python.exe",
+    "idf.flashType": "UART"
+}
